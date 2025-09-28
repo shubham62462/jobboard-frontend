@@ -12,7 +12,7 @@ A modern job board application frontend built with React, TypeScript, Vite, and 
 
 ```bash
 # Clone and install dependencies
-git clone <repository-url>
+git clone https://github.com/shubham62462/jobboard-frontend.git
 npm install
 
 # Environment setup
